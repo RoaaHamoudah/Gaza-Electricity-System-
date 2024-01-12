@@ -1,0 +1,25 @@
+.tab-pane *.tab-header-area *.tab-header-background {
+  -fx-background-color:transparent;
+}
+
+.tab-pane {
+  -fx-tab-min-width:225px;
+  -fx-tab-max-width:150px;
+  -fx-tab-min-height:40px;
+  -fx-tab-max-height:40px;
+  -fx-background-color: #E0FFFF;	
+}
+
+.tab {
+  -fx-font-family: Arial;
+  -fx-font-size: 18;
+  -fx-background-color:#006666; ;
+}
+
+.label {
+  -fx-font-family: Arial;
+  -fx-font-size: 13;
+  -fx-text-fill: black; 
+  -fx-font-weight: bold;
+}
+
