@@ -48,4 +48,4 @@ Statistical insights are available, and the system allows for easy saving of mod
    - Overall_demand_in_MWs
    - Power_Cuts_hours_day_400mg
    - Temp
-- GUI: JavaFX-based interface for choosing the CSV file, managing records, viewing statistics, and saving data.
+- GUI: JavaFX-based interface for choosing the CSV file, managing records, viewing statistics, and saving data. 
