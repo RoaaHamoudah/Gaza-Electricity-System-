@@ -6,33 +6,33 @@ Using a combined sorted linked list, it handles daily electricity records source
 Statistical insights are available, and the system allows for easy saving of modified data.
 
 ## Features
-### File Screen
+1. **File Screen**
 - load CSV File
    - Use a file chooser to select the electricity data file and load it into the application.
 <br>
 
-### Management Screen
+2. **Management Screen**
 - Insert a New Record
 - Update or Delete electricity record
 - Search for a Record by Date
 <br>
 
-### Statistics Screen
-1) Daily Electricity Data
+3. **Statistics Screen**
+- Daily Electricity Data
    - View specific electricity statistics (e.g., total, average, maximum, minimum) for a given day across all months and years.
      
-2) Monthly Electricity Data
+- Monthly Electricity Data
    - View specific electricity statistics (e.g., total, average, maximum, minimum) for a given month across all days and years.
      
-3) Yearly Electricity Data
+- Yearly Electricity Data
    - View specific electricity statistics (e.g., total, average, maximum, minimum) for a given year across all days and months.
      
-4) Total Statistics for All Data
+- Total Statistics for All Data
    - Maximum, Minimum: For Israeli_Lines_MWs, Gaza_Power_Plant_MWs, and Egyptian_Lines_MWs.
    - Total, Maximum, Minimum, Average: For Total_daily_Supply_available_in_MWs, Overall_demand_in_MWs, Power_Cuts_hours_day_400mg, and Temp.
 <br>
 
-### Save Screen
+4. **Save Screen**
 - Save the updated linked lists back to a new CSV file in the same format, separated by commas (,).
 - Use a file chooser to select the folder where the file will be saved.
 <br>
